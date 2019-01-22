@@ -1,1 +1,25 @@
 Topics for January 26 and 27: 
+
+Data Science Topics:
+
+1. Navigating Feature Selection and Feature Engineering 
+
+2. Various Types of Gradient Descent 
+
+3. What is Overfitting and How to Deal With It? 
+
+Web Development Topics:
+
+1. Creating a Static Web Page Using Bootstrap Styling with Flask 
+
+
+Bonus Topic (Recent Developments):
+
+1. AutoML and its Implications
+
+
+Current Presenters:
+
+1. Rishov
+
+2. vizn 
